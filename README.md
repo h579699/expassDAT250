@@ -1,4 +1,4 @@
-# expass1DAT250
+# expass1 DAT250
 
 technical problems that you encountered during installation of the software development environment and how you have solved them
 
@@ -18,3 +18,4 @@ technical problems encountered with the Heroku platform and how you solved them
 
 any pending issues with this assignment which you did not manage to solve
 
+Link to Heroku application: https://expass1-heroku.herokuapp.com
