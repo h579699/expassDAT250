@@ -13,7 +13,7 @@ To verify the installations I did the following:
 - Heroku CLI: heroku -v *(in Command Prompt)*
 
 ### Validation of SDE
-I validated that the SDE was working properly, by completing the [Getting Started on Heroku with Java](https://devcenter.heroku.com/articles/getting-started-with-java). Before starting the tutorial, I also had to download and install [PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) and set it up locally. I also added PostgreSQL to the *PATH* variable. 
+I validated that the SDE was working properly, by completing the [Getting Started on Heroku with Java](https://devcenter.heroku.com/articles/getting-started-with-java) tutorial. Before starting the tutorial, I also had to download and install [PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) and set it up locally. I also added PostgreSQL to the *PATH* variable. 
 
 The steps taken to validate the SDE are further described in the [tutorial](https://devcenter.heroku.com/articles/getting-started-with-java). I already had some experience with the Heroku platform and didn't encounter any major problems during the tutorial. However, I struggled a bit with getting the application to work locally when connecting to a local PostgreSQL database. The problem was that the connection string (JDBC_DATABASE_URL) in the .env file wasn't correct. I found the correct connection string and solved the problem, and got the application to work locally.           
 
