@@ -23,7 +23,7 @@ I implemented the [domain model](https://raw.githubusercontent.com/selabhvl/dat2
 
 The last step, was to persist the [object diagram](https://raw.githubusercontent.com/selabhvl/dat250public/master/expassignments/pictures/object-diagram.svg) from the assignment into my database and run the test case MainTest successfully.
 
-#### Screenshots of running the MainTest 
+#### Screenshot of running the MainTest 
 ![image](https://user-images.githubusercontent.com/53999377/188210371-1f0281a5-69e5-477d-83b0-e0e4d9a60824.png)
 
-Link to your code for experiment 2:
+Link to code for experiment 2:https://github.com/h579699/expass2DAT250/tree/master/eclipselink/experiment-2
