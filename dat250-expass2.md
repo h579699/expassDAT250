@@ -19,7 +19,7 @@ To use the *ij* tool I followed the steps from a [Derby Tutorial](https://db.apa
 I implemented the [domain model](https://raw.githubusercontent.com/selabhvl/dat250public/master/expassignments/pictures/creditCard.svg) from the assignment by using JPA annotations and the starting point code for *experiment-2*. I then ran the project to create the database tables. I used the *ij* tool to inspect the tables.
 
 #### Screenshots of the database schema 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/53999377/188209843-ef475bd1-4e4f-4457-898d-eefa7913c6e1.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/53999377/189167838-df804fdc-c366-4004-b4e1-3fea2c0e3adb.png">
 
 The last step, was to persist the [object diagram](https://raw.githubusercontent.com/selabhvl/dat250public/master/expassignments/pictures/object-diagram.svg) from the assignment into my database and run the test case MainTest successfully.
 
